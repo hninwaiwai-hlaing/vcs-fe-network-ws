@@ -4,7 +4,7 @@
 git init
 # Create the 'origin' remote tracker
 git remote add origin <git-repo>
-# Verfiy
+# Verify
 git remote -v
 # Rename local branch to main to match GitHub's default
 git branch -M main
