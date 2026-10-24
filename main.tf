@@ -1,7 +1,7 @@
 
 terraform {
   cloud {
-    organization = "vpc-peering"
+    organization = "vpc-vcs-org"
 
     workspaces {
       name = "fe-network-ws"
