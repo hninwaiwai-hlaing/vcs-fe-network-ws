@@ -4,7 +4,7 @@ terraform {
     organization = "vpc-vcs-org"
 
     workspaces {
-      name = "fe-network-ws"
+      name = "vcs-fe-network-ws"
     }
   }
 
